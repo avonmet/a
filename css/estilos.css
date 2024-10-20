@@ -63,12 +63,12 @@ body{
 }
 
 .imagem{
-  padding-top: 30px;
+  padding-top: 55px;
 }
 
 .imagem img{
-  width: 75%;
-  height: 400px;
+  width: 85%;
+  height: 475px;
   margin: 30px;
   margin-left: 60px;
   border-radius: 10px;
